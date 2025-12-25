@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_s">4dp</dimen>
+    <dimen name="size_m">6dp</dimen>
+    <dimen name="size_l">8dp</dimen>
+    <dimen name="size_xl">12dp</dimen>
+    <dimen name="size_xxl">16dp</dimen>
+    <dimen name="default_icon_size">200dp</dimen>
+</resources>

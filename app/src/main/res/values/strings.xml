@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pokémon Catalogue App</string>
+
+    <string name="action_done">Done</string>
+
+    <string name="my_backpack">My Backpack</string>
+    <string name="backpack_empty">Backpack Empty</string>
+    <string name="pokedex_gen_one">Pokedex Gen 1</string>
+    <string name="search_pokemon">Search Pokémon...</string>
+    <string name="options">Options</string>
+    <string name="sort_by">Sort By</string>
+    <string name="filter_type">Filter Type</string>
+
+    <string name="pokedex">Pokedex</string>
+    <string name="backpack">Backpack</string>
+    <string name="remove_from_bag">Remove from Bag</string>
+    <string name="add_to_bag">Add to Bag</string>
+</resources>
