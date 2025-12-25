@@ -1,5 +1,9 @@
 # **Pokémon Catalogue App 📱**
 
+
+https://github.com/user-attachments/assets/758525f9-268c-4085-a579-fcc7b130a92b
+
+
 A modern native Android application built with **Kotlin** and **Jetpack Compose**, demonstrating **Clean Architecture** and **MVVM** patterns. This app allows users to browse Generation 1 Pokémon, filter/sort results, and manage a personal "Backpack" collection.
 
 ## **🏗️ Architecture**
@@ -70,3 +74,4 @@ app/src/main/java/com/example/pokemoncatalogueapp
 ├── di            \# Manual Dependency Injection  
 ├── ui            \# ViewModels, Screens, Components  
 └── MainActivity.kt  
+
